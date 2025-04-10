@@ -143,7 +143,6 @@ This project demonstrates how to implement **one-to-many relationships in MongoD
 ## 👨‍💻 Author
 
 **Yogesh Shinde**  
-📍 Manoli, Sangamner, Maharashtra  
 📧 yogeshshinde3624@gmail.com  
 🔗 [LinkedIn](https://linkedin.com/in/y0geshshinde)  
 🐙 [GitHub](https://github.com/y0geshshinde)
